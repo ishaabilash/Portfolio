@@ -1,4 +1,4 @@
-# Capstone Project
+# Integrated Capstone Project
 
 ## Purpose
 End-to-end integrated project combining SQL, Python, Power BI, and Power Query.
